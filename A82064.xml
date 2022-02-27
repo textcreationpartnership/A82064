@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and resolution of the knights, gentry, and free-holders of the county of Kent, now in armes for the defence and preservation of the Kings Majesties royall person, the priviledges of the subjects, and the laws and liberties of the free-born people of this nation. With their resolution touching the army; and all others that shall oppose them. And their randevouzing at Black-Heath, and their skirmish with a party of the generals horse, with the manner thereof, and their taking of divers pieces of ordnance, armes, and ammunition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82064</idno>
+            <idno type="STC">Wing D556</idno>
+            <idno type="STC">Thomason E445_10</idno>
+            <idno type="STC">ESTC R204776</idno>
+            <idno type="EEBO-CITATION">99864238</idno>
+            <idno type="PROQUEST">99864238</idno>
+            <idno type="VID">161743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161743)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and resolution of the knights, gentry, and free-holders of the county of Kent, now in armes for the defence and preservation of the Kings Majesties royall person, the priviledges of the subjects, and the laws and liberties of the free-born people of this nation. With their resolution touching the army; and all others that shall oppose them. And their randevouzing at Black-Heath, and their skirmish with a party of the generals horse, with the manner thereof, and their taking of divers pieces of ordnance, armes, and ammunition.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161743:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND <hi>RESOL<g ref="char:V">Ʋ</g>TJON</hi> OF THE Knights, Gentry, and Free-holders of the COUNTY of KENT, Now in Armes for the defence and pre<g ref="char:EOLhyphen"/>ſervation of the Kings Majeſties Royall Perſon, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Priviledges of the Subjects, and the Laws and Liberties of the Free-born People of this <hi>NATION.</hi>
+            </p>
+            <p>With their Reſolution touching the Army; and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l others that ſhall oppoſe them.</p>
+            <p>And their randevouzing at Black-Heath, and their Skirmiſh with a Party of the G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerals horſe, with the manner thereof, and their taking of divers Pieces of Ordnance, Armes, and Ammunition.</p>
+            <p>
+               <add>May 29.</add> 
+               <hi>London,</hi> Printed for <hi>R. W. Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161743:2"/>
+            <pb n="1" facs="tcp:161743:2"/>
+            <head>A DECLARATJON OF THE Knights, Gentlemen, and Free-holders of the County of KENT</head>
+            <p>THat the <hi>innocency</hi> of our intentions, and Juſtice of undertakings, may more clearly appear to all men of uncorrupt underſtand<g ref="char:EOLhyphen"/>ings, and hearts not made too ſervil by the long and odious cuſtome of oppreſſion: We the Knights, Gentlemen, and Franchlins of the County of <hi>Kent,</hi> the moſt free people of this late Flouriſhing Na<g ref="char:EOLhyphen"/>tion; by the wiſdome and valour of our <hi>Anceſtors,</hi> deli<g ref="char:EOLhyphen"/>vered from the Laws of a Conquerer, and to theſe late daies unhappy confuſion and diſtraction enjoying the ſame, through all the Reignes of the moſt glorious victo<g ref="char:EOLhyphen"/>rious
+<pb n="2" facs="tcp:161743:3"/>Kings and Princes of this Nation: Doe hereby de<g ref="char:EOLhyphen"/>clare and manifeſt to all the world, That our aſſembling and meeting together at this time, is no other then for a vindication of our ſelves and purpoſes, from the ſcandal, and aſperſions of the Committee of this County; who upon occaſion of a Petition in behalf of the County of <hi>Kent,</hi> aſſented and ſubſerbed to by the <hi>Grand Jurie</hi> at the Seſſions of the Judges upon an eſpetiall Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> executed at the Caſtle of <hi>Canterbury</hi> the 11. of <hi>May</hi> laſt, for the ſaid County; not onely made Or<g ref="char:EOLhyphen"/>ders agoinſt the ſame, and commanded them publickly to be read in all Churches ſentencing &amp; condemning the ſaid Petition and all the Abetors thereof: and have ſum<g ref="char:EOLhyphen"/>moned the Troops of Horſe, and Forces of Foot of this County for ſuppreſion of the ſaid Petition: which tends not only to the ſuppreſſion of the Liberty, even of the moſt enſlaved perſons of the world; but alſo as much as in them lies, endeavour upon any cauſes whatſoever, which ſuits not with their humours, to over <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>we the ſenſes of other men, and upon oppoſition therein think they have ground enough to take away the lives and For<g ref="char:EOLhyphen"/>tunes, or both, of their ſaid oppoſers.</p>
+            <p>In conſideration of which, and that now the ſaid Com<g ref="char:EOLhyphen"/>mittee finding themſelves unable to involve this County in bloud; have made their addreſſe to the Parliament, and Army; and make ſtrange and malitious repreſentations, of our purpoſes, thereby diſcovering nothing ſo much as their own pride and malice. We the ſaid Knights, Gen<g ref="char:EOLhyphen"/>tlemen, and Frree-Yeomen of the County of <hi>Kent</hi> do here<g ref="char:EOLhyphen"/>in appeal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the world to judge, If it were not high time for us to put our ſelves in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a poſture of Defence; &amp; doe further declare, that we will proſecute our ſaid petiti<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:161743:3"/>with our lives and fortunes, not doubting of a fair re<g ref="char:EOLhyphen"/>ception from the two houſes of Parliament; whom we know to have been inſtigated againſt us by the ſaid Committee: And therefore ſaving to our ſelves the en<g ref="char:EOLhyphen"/>larging of the ſaid Committee with encreaſing the Taxes of this County above the du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proportions, and only for maint<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ining their owne private luxury and pride; with uſurping a power over the Eſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te and Fortunes of this County not grafted in them, and expreſſed by words and actions, all along the exerciſe os th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s power, (which m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes them unfit for rule) to the exaſperating of the peo<g ref="char:EOLhyphen"/>ples hearts into all annimomoſity, and overthrowing of all love and peace in this County: which alſo hath been followed to that hight of proſecution, That had not two Houſes given a ſtop to their exorbitant proceedings, we had ſuffered much more uder the torment of theſe mens projected deſignes: wherein we acknowledge our ſelves to have ben ſecured in the temper and moderation of the Houſes. we have no more to ſay or do, but to defend our ſelves, till we can have a right underſtanding of our pur<g ref="char:EOLhyphen"/>poſes and action before the Houſes. In the mean time, <hi>we ſhall look upon all oppoſition, as the provocation of a conſcious and enraged Committee, and in reſpect of the invaſion lately made upon the perſons of our Neighbours we think fit not to lie at the mercy of Souldiers, but to have refuge to our Armes, from which no threats or face of Souldiery ſhall drive us, knowin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wel the juſtice of our cauſe, and the temper of our ow<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearts.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161743:4"/>
+            <head>An exact and full Relation of the procee<g ref="char:EOLhyphen"/>dings of the <hi>Kentiſh-men,</hi> and the man<g ref="char:EOLhyphen"/>ner of their Fight at <hi>Dedford,</hi> with the Parliaments Forces.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>ON Fryday laſt being the 26 of this inſtant the Kentish-men boarded a Pinnace that lay on the River, and ſeiz'd on all the Arms and Ammunition, and took all her Ord<g ref="char:EOLhyphen"/>nance, which they landed near Dedford, and planted them in two or three paſſages, placing their Guards both of horſe and foot; then they marcht to New-Croſs, &amp; with Carts, harrows, and ſuch like materials blockt up the paſſages to ſtop the Parliaments horſe in their march, and placed two Drakes at a Court of Guard there; from thence they went to Dedford bridge, and did the like: the colours which their Enſignes bore were white and red. Their body of horſe
+<pb n="5" facs="tcp:161743:4"/>and foot (which at this time conſiſted of about 800.) randezvouzed at Black-heath, where di<g ref="char:EOLhyphen"/>vers other of the country forces made their ap<g ref="char:EOLhyphen"/>pearance.</hi>
+            </p>
+            <p>Alſo this evening divers Gentlemen and Eſquires went from this town over into <hi>Eſ<g ref="char:EOLhyphen"/>ſex,</hi> to know their reſolutions; but what an<g ref="char:EOLhyphen"/>ſwer they received, as yet J cannot hear; but they are aſsured from <hi>Surrey,</hi> that before Sunday morning, they will bring to their aſ<g ref="char:EOLhyphen"/>ſiſtance <hi>5000,</hi> men compleatly armed. On <hi>Satterday</hi> about five of the clock in the af<g ref="char:EOLhyphen"/>ternoon came in five Companies more to <hi>Black-health</hi> with yellow Cullers, at whoſe approach the Body gave ſuch a ſhout, that they made the place to ring. Jt is confidently reported, that they expected to be about <hi>16000</hi> before <hi>Sunday at noon,</hi> and this Evening they took four Drakes out of another Ship which lay vpon the River over againſt <hi>Det<g ref="char:EOLhyphen"/>ford.</hi> This day likewiſe they put themſelves
+<pb n="6" facs="tcp:161743:5"/>into a poſture of defence, and made choice of their Officers both Horſe and Foot, and it it is reported, that they intend to chuſe the Earl of <hi>Thanet</hi> Generall. On Satterday in the morning about three of the clocke, a par<g ref="char:EOLhyphen"/>ty of Horſe belonging to Col. <hi>Rich</hi> his Re<g ref="char:EOLhyphen"/>giment, fac'd the Guard at <hi>New Croſſe,</hi> where both parties fired at each other, but the <hi>Kentiſh horſe</hi> purſuing them, and retur<g ref="char:EOLhyphen"/>ning, met ſome of their own foot (who went over the fields, and thought to have engaged Col. <hi>Riches horſe</hi>) and had like to have falu upon them, but that they preſently gave them the word, <hi>God grant a happy uniting be<g ref="char:EOLhyphen"/>twixt both parties, and ſtop the further effuſion of bloud, which ſhall be the con<g ref="char:EOLhyphen"/>ſtant prayers of him, who remaines</hi>
+            </p>
+            <closer>
+               <dateline>Greenwich <date>27. May, 1648.</date>
+               </dateline>
+               <signed>Your obliged Friend, <hi>G. MALLOTT.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
